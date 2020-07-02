@@ -2,3 +2,4 @@
 
 # Linux-Practice
 This repository contains all the practice problems I am doing to learn Linux and Shell.
+I will be updating this repository with my progress.
