@@ -1,6 +1,6 @@
-[![Gitpo ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/7Ragnarok7/Linux-Practice)
-
 # Linux-Practice
+
+
 If You are totally new to Linux or Interested in Linux, Basic Programming Concepts and Shell Scripting but don't know how to start,
 You have landed on the right place.
 Get a Good grasp of Linux while solving small problems with easy to understand guides and solved solutions by me.
