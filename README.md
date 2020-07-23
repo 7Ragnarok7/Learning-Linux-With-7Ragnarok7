@@ -1,4 +1,4 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/7Ragnarok7/Linux-Practice)
+[![Gitpo ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/7Ragnarok7/Linux-Practice)
 
 # Linux-Practice
 If You are totally new to Linux or Interested in Linux, Basic Programming Concepts and Shell Scripting but don't know how to start,
