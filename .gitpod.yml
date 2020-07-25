@@ -1,0 +1,2 @@
+tasks:
+  - init: echo -e "\nWelcome to the codebase of this project. \nFeel free to play around with the source files. \nContributions are highly appreciated. \nLeave your suggestions and feedbacks in the comment section of the repository. \nDo let me know if this project helped you in any way :) \n"
