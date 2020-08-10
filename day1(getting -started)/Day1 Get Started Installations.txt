@@ -7,6 +7,7 @@ Get Started with Installations :-
 	• Download and Install JDK: https://www.oracle.com/java/technologies/javase-downloads.html
 	• Set up the path in environmental variables: https://www.poftut.com/how-to-set-java-jre-and-jdk-home-path-and-environment-variables-on-windows/
 	• Check Java compiler is installed on Terminal Shell: javac –version
+	• You will get a git bash linux environment application in your start menu after successful installation of git for windows with recommended settings. You will use git bash as the linux terminal for practicing the commands.
 
 	Linux Installation Guidelines :
 
