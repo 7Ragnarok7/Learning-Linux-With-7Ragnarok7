@@ -41,8 +41,9 @@ Feel free to leave your sugggetions, feedbacks and queries in the issues section
 
 - **Day 7:** Contains some shell scripts about using arrays and functions in bash.
 
-### Additional Notes :-
+### Additional Notice :-
 - Some file names may be different from the ones mentioned in the notes. Do adjust them accordingly.
+
 - Feel free to leave your sugggetions, feedbacks and queries in the [issues][link] section and do let me know if this project helped you in any way :)
 
 [//]: # "References below :-"
