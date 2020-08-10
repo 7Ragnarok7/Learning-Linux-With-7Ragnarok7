@@ -28,7 +28,7 @@ To do so click on the "Gitpod ready-to-code" button above and you will be taken 
 ***You can always look up the linux_cheat_sheet file provided in the parent directory for referece to the most common commands used in a linux terminal***
 - **Day 1:** Contains basic steps to set up a linux or windows pc to get started with this course. (You can skip this if you want to practice this course in the browser itself with the blue button provided above.)
 
-- **Day 2:** Contains notes about terminal commands to get you faliarised with the shell. There is also a java dummy clock program you can try out learn about background and foreground execution as mention in the notes.
+- **Day 2:** Contains notes about terminal commands to get you familiarised with the shell. There is also a java dummy clock program you can try out learn about background and foreground execution as mention in the notes.
 
 - **Day 3:** Contains lots of practice problems on the contents you learned in **day 2.** Solutions to the problems are provided in a sub-directory in a formatted word document as well as the respective shell scripts but I would recommend you to be creative, use your brains and solve them by yourself first before looking into the solutions.
 
