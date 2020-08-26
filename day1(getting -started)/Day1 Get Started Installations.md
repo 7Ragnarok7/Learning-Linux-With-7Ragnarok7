@@ -1,6 +1,6 @@
-Get Started with Installations :- 
+# Get Started with Installations :- 
 
-	Windows Installation Guidelines :-
+## Windows Installation Guidelines :-
 
 	• Download and Install Git for Windows: https://gitforwindows.org/
 	• Check Git is Installed in the Terminal Shell: git –-version
@@ -9,7 +9,7 @@ Get Started with Installations :-
 	• Check Java compiler is installed on Terminal Shell: javac –version
 	• You will get a git bash linux environment application in your start menu after successful installation of git for windows with recommended settings. You will use git bash as the linux terminal for practicing the commands.
 
-	Linux Installation Guidelines :
+## Linux Installation Guidelines :
 
 	• sudo apt-get update (used for fetching new updates in repositories)
 	• sudo apt-get install git
@@ -17,7 +17,7 @@ Get Started with Installations :-
 	• sudo apt-get install default-jdk
 	• Check Java compiler is installed on Terminal Shell: javac –version
 	
-Post installations :- 
+## Post installations :- 
 
 	Register with Github - https://github.com/join?source=header-home
 	
