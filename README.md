@@ -22,6 +22,8 @@ To do so click on the "Gitpod ready-to-code" button above and you will be taken 
 
 - Can be started right in the browser without any additional downloads or setup in your computer. (CLICK THE BLUE BUTTON AT TOP OF THIS PROJECT DESCTRIPTION)
 
+- Get all the installations steps respective to your machine [HERE][install]
+
 - **SHOOT ALL YOUR QUESTIONS AND QUERIES ABOUT THE COURSE [HERE][link]**
 
 ### Folder Structure :-
@@ -50,3 +52,4 @@ Feel free to leave your sugggetions, feedbacks and queries in the issues section
 
 [link]:<https://github.com/7Ragnarok7/Linux-Practice/issues>
 [code]:<https://gitpod.io/#https://github.com/7Ragnarok7/Linux-Practice>
+[install]:<https://github.com/7Ragnarok7/Learning-Linux-With-7Ragnarok7/blob/master/day1(getting%20-started)/Day1%20Get%20Started%20Installations.md>
