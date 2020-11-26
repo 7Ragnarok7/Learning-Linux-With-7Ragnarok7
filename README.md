@@ -1,6 +1,6 @@
 # Learning-Linux-With-7Ragnarok7
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)][code]  __[CLICK HERE TO GET STARTED IN BROWSER ITSELF]__
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)][code]  __<-- [CLICK HERE TO GET STARTED IN BROWSER ITSELF]__
 
 ##### *This is a mini-course which will help you to get started with Linux*  
 
