@@ -17,7 +17,7 @@
 	• sudo apt-get install default-jdk
 	• Check Java compiler is installed on Terminal Shell: javac –version
 	
-## Post installations :- 
+## Post-installation :- 
 
 	Register with Github - https://github.com/join?source=header-home
 	
@@ -25,3 +25,4 @@
 	
 	• git config --global user.name “Enter Name”
 	• git config --global user.email “Enter Git Registered Email Id”
+	• clone the learning repository: git clone https://github.com/7Ragnarok7/Learning-Linux-With-7Ragnarok7.git
